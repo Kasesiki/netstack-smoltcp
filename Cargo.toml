@@ -1,0 +1,8 @@
+[package]
+name = "netstack-smoltcp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+smol = "2.0.2"
+smoltcp = "0.14.0"
